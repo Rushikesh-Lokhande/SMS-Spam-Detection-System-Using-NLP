@@ -109,7 +109,7 @@ with st.sidebar:
         - **Project:** SMS Spam Detection
         - **Technology:** NLP + Machine Learning
         - **Framework:** Streamlit
-        - **Developed by:** Rushikesh Lokhande
+        - **Developed by:** Edunet Foundation 
         """,
         unsafe_allow_html=True,
     )
